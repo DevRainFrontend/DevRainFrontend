@@ -1,16 +1,26 @@
-## Hi there 👋
+![Header Banner](./banner.png)
 
-<!--
-**DevRainFrontend/DevRainFrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Projeler](#projeler) • [Teknolojiler](#teknolojiler) • [Hakkımda](#hakkımda) • [İletişim](#iletişim)
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-SITENIZ.COM-5865F2?style=for-the-badge)](https://example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KULLANICI_ADI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Discord](https://img.shields.io/badge/DISCORD-SUNUCU_ADI-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Followers](https://img.shields.io/github/followers/GITHUB_KULLANICI_ADIN?label=Followers&style=for-the-badge&color=5865F2)
+![Stars](https://img.shields.io/github/stars/GITHUB_KULLANICI_ADIN?label=Total%20Stars&style=for-the-badge&color=7852FF)
+
+---
+
+## 👋 Selam, Ben [Adınız]
+
+Buraya kendinizi tanıtan kısa bir paragraf ekleyin. Hangi alanlarda çalıştığınızı, uzmanlıklarınızı (örneğin backend sistemleri, web geliştirme veya sunucu yönetimi) ve genel geliştirici felsefenizi belirtebilirsiniz.
+
+Farklı diller ve araçlarla çalışmaktan hoşlanıyorum. Performans odaklı, sürdürülebilir ve ölçeklenebilir altyapılar kurmaya odaklanıyorum.
+
+---
+
+### 🚀 Projeler & Girişimler
+
+| [Proje Bir](https://github.com) | [Proje İki](https://github.com) | [Proje Üç](https://github.com) |
+| :--- | :--- | :--- |
+| **GÖREV / ROL**<br><br>Projenin ne işe yaradığını, kullanılan temel teknolojileri ve mimarisini özetleyen kısa açıklama. | **KURUCU / GELİŞTİRİCİ**<br><br>Projenin sunduğu çözümler ve çözdüğü temel problemler hakkında kısa not. | **ALTYAPI & DEVOPS**<br><br>Sistem süreçleri, sunucu yönetimi ve otomasyon detayları. |
