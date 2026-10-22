@@ -11,16 +11,15 @@
 
 ---
 
-## 👋 Selam, Ben [Adınız]
+## 👋 Selam, Ben Rainbow.dev
 
-Buraya kendinizi tanıtan kısa bir paragraf ekleyin. Hangi alanlarda çalıştığınızı, uzmanlıklarınızı (örneğin backend sistemleri, web geliştirme veya sunucu yönetimi) ve genel geliştirici felsefenizi belirtebilirsiniz.
+Modern web geliştirme standartları, dinamik kullanıcı arayüzleri ve sunucu süreçlerine odaklanan bir yazılımcıyım. JavaScript ve Python ekosistemlerindeki çalışmalarımla, kullanıcı dostu arayüzleri Linux ortamının sunduğu güvenilir altyapılarla destekliyorum.
 
-Farklı diller ve araçlarla çalışmaktan hoşlanıyorum. Performans odaklı, sürdürülebilir ve ölçeklenebilir altyapılar kurmaya odaklanıyorum.
+Benim için geliştirme süreci; estetik görünüm, yüksek performans ve sürdürülebilir mimarinin dengesidir. Web projeleri üretmekten sunucu yapılandırmalarına ve topluluk yönetimine kadar projeleri baştan uca ele almayı, açık kaynak kodun gücünü pratik çözümlere dönüştürmeyi benimsiyorum.
 
 ---
 
 ### 🚀 Projeler & Girişimler
 
-| [Proje Bir](https://github.com) | [Proje İki](https://github.com) | [Proje Üç](https://github.com) |
-| :--- | :--- | :--- |
-| **GÖREV / ROL**<br><br>Projenin ne işe yaradığını, kullanılan temel teknolojileri ve mimarisini özetleyen kısa açıklama. | **KURUCU / GELİŞTİRİCİ**<br><br>Projenin sunduğu çözümler ve çözdüğü temel problemler hakkında kısa not. | **ALTYAPI & DEVOPS**<br><br>Sistem süreçleri, sunucu yönetimi ve otomasyon detayları. |
+| [Proje Bir](https://github.com/DevRainFrontend/AvocadoBOT) | [Proje İki](https://github.com/DevRainFrontend/Rainbow5.0) | [Proje Üç](https://github.com/DevRainFrontend/EgeCBS) |
+
